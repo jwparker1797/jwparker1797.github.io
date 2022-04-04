@@ -1,4 +1,4 @@
-# Welcome to my GIS Developer Blog!
+# Welcome
 
 I am very excited that you have landed on my page.
 
